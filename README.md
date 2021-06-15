@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Add solution URL here](https://your-solution-url.com)
--  Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-  Solution URL: [Solution](https://github.com/Dike-Code/Blogr-landing-page)
+-  Live Site URL: [Live Site](https://dike-code.github.io/Blogr-landing-page/#)
 
 ### Built with
 
@@ -180,13 +180,13 @@ All, Practice... Practice and Practice.
 
 ### Useful resources
 
--  [Traversy Media](https://www.example.com) - This helped me with the full asimillation of CSS FLEX BOX and Grid. I really liked this pattern Brad uses in explaining all the concepts one needs to master this craft.
+-  [Traversy Media](https://traversymedia.com/) - This helped me with the full asimillation of CSS FLEX BOX and Grid. I really liked this pattern Brad uses in explaining all the concepts one needs to master this craft.
 
--  [Youtube](https://www.example.com) - This is an amazing website/platform which helped me finally understand a lot including the snippets on buiding a dropdown list. I'd recommend it to anyone still learning this concept.
+-  [Youtube](https://www.google.com/url?sa=t&source=web&rct=j&url=https://m.youtube.com/&ved=2ahUKEwinv7er4prxAhU_RUEAHQjtBQMQFjAAegQIDBAC&usg=AOvVaw1gjD0qA2OtrsxdcaNbwsxk) - This is an amazing website/platform which helped me finally understand a lot including the snippets on buiding a dropdown list. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
--  Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+-  Frontend Mentor - [@Dike-Code](https://www.frontendmentor.io/profile/Dike-Code)
 -  Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
