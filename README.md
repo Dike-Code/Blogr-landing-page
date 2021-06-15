@@ -33,15 +33,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](../images/screenshoot.png)
-![](../images/screenshoot1.png)
+![Desktop View](./images/screenshoot.png)
+![Mobile View](./images/screenshoot1.png)
 
 ### Links
 
 -  Solution URL: [Add solution URL here](https://your-solution-url.com)
 -  Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
 
 ### Built with
 
@@ -57,8 +55,7 @@ Users should be able to:
 I learnt a whole bunch of things, starting with how to buid a dropdown menu and also the distinct form at which a navbar could be positioned using the CSS "Margin" property...
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
-<ul class="dropdown">
+                  <ul class="dropdown">
                         <li class="dropdown__items">
                            <a href="" class="dropdown__links">Overview</a>
                         </li>
@@ -195,8 +192,8 @@ All, Practice... Practice and Practice.
 ## Acknowledgments
 
 With utmost gratitude I'd like to acknowledge:
-Freecodecamp
-Traversy Media
-Dev.Ed
-Jon Dukket
-Youtube.
+- Freecodecamp,
+- Traversy Media,
+- Dev.Ed,
+- Jon Dukket,
+- Youtube.
